@@ -1,0 +1,97 @@
+data_gasto,categoria_gasto,descricao,valor
+2024-01-01,Aluguel,Aluguel da loja,8000.00
+2024-01-01,Salários,Salários e encargos,12000.00
+2024-01-01,Matéria-prima,Compra de ouro e pedras preciosas,6000.00
+2024-01-01,Marketing,Publicidade e marketing digital,3000.00
+2024-01-01,Utilidades,"Energia, água e telefone",1500.00
+2024-01-01,Manutenção,Manutenção de equipamentos,1000.00
+2024-01-01,Seguros,Seguros diversos,1200.00
+2024-01-01,Outros,Despesas diversas,1800.00
+2024-02-01,Aluguel,Aluguel da loja,8000.00
+2024-02-01,Salários,Salários e encargos,12000.00
+2024-02-01,Matéria-prima,Compra de ouro e pedras preciosas,5500.00
+2024-02-01,Marketing,Publicidade e marketing digital,3500.00
+2024-02-01,Utilidades,"Energia, água e telefone",1600.00
+2024-02-01,Manutenção,Manutenção de equipamentos,1100.00
+2024-02-01,Seguros,Seguros diversos,1200.00
+2024-02-01,Outros,Despesas diversas,2000.00
+2024-03-01,Aluguel,Aluguel da loja,8000.00
+2024-03-01,Salários,Salários e encargos,12000.00
+2024-03-01,Matéria-prima,Compra de ouro e pedras preciosas,7000.00
+2024-03-01,Marketing,Publicidade e marketing digital,4000.00
+2024-03-01,Utilidades,"Energia, água e telefone",1700.00
+2024-03-01,Manutenção,Manutenção de equipamentos,1200.00
+2024-03-01,Seguros,Seguros diversos,1200.00
+2024-03-01,Outros,Despesas diversas,2200.00
+2024-04-01,Aluguel,Aluguel da loja,8000.00
+2024-04-01,Salários,Salários e encargos,12000.00
+2024-04-01,Matéria-prima,Compra de ouro e pedras preciosas,6500.00
+2024-04-01,Marketing,Publicidade e marketing digital,4500.00
+2024-04-01,Utilidades,"Energia, água e telefone",1800.00
+2024-04-01,Manutenção,Manutenção de equipamentos,1300.00
+2024-04-01,Seguros,Seguros diversos,1200.00
+2024-04-01,Outros,Despesas diversas,2400.00
+2024-05-01,Aluguel,Aluguel da loja,8000.00
+2024-05-01,Salários,Salários e encargos,12000.00
+2024-05-01,Matéria-prima,Compra de ouro e pedras preciosas,7000.00
+2024-05-01,Marketing,Publicidade e marketing digital,5000.00
+2024-05-01,Utilidades,"Energia, água e telefone",1900.00
+2024-05-01,Manutenção,Manutenção de equipamentos,1400.00
+2024-05-01,Seguros,Seguros diversos,1200.00
+2024-05-01,Outros,Despesas diversas,2600.00
+2024-06-01,Aluguel,Aluguel da loja,8000.00
+2024-06-01,Salários,Salários e encargos,12000.00
+2024-06-01,Matéria-prima,Compra de ouro e pedras preciosas,8000.00
+2024-06-01,Marketing,Publicidade e marketing digital,5500.00
+2024-06-01,Utilidades,"Energia, água e telefone",2000.00
+2024-06-01,Manutenção,Manutenção de equipamentos,1500.00
+2024-06-01,Seguros,Seguros diversos,1200.00
+2024-06-01,Outros,Despesas diversas,2800.00
+2024-07-01,Aluguel,Aluguel da loja,8000.00
+2024-07-01,Salários,Salários e encargos,12000.00
+2024-07-01,Matéria-prima,Compra de ouro e pedras preciosas,7500.00
+2024-07-01,Marketing,Publicidade e marketing digital,6000.00
+2024-07-01,Utilidades,"Energia, água e telefone",2100.00
+2024-07-01,Manutenção,Manutenção de equipamentos,1600.00
+2024-07-01,Seguros,Seguros diversos,1200.00
+2024-07-01,Outros,Despesas diversas,3000.00
+2024-08-01,Aluguel,Aluguel da loja,8000.00
+2024-08-01,Salários,Salários e encargos,12000.00
+2024-08-01,Matéria-prima,Compra de ouro e pedras preciosas,8500.00
+2024-08-01,Marketing,Publicidade e marketing digital,6500.00
+2024-08-01,Utilidades,"Energia, água e telefone",2200.00
+2024-08-01,Manutenção,Manutenção de equipamentos,1700.00
+2024-08-01,Seguros,Seguros diversos,1200.00
+2024-08-01,Outros,Despesas diversas,3200.00
+2024-09-01,Aluguel,Aluguel da loja,8000.00
+2024-09-01,Salários,Salários e encargos,12000.00
+2024-09-01,Matéria-prima,Compra de ouro e pedras preciosas,9000.00
+2024-09-01,Marketing,Publicidade e marketing digital,7000.00
+2024-09-01,Utilidades,"Energia, água e telefone",2300.00
+2024-09-01,Manutenção,Manutenção de equipamentos,1800.00
+2024-09-01,Seguros,Seguros diversos,1200.00
+2024-09-01,Outros,Despesas diversas,3400.00
+2024-10-01,Aluguel,Aluguel da loja,8000.00
+2024-10-01,Salários,Salários e encargos,12000.00
+2024-10-01,Matéria-prima,Compra de ouro e pedras preciosas,9500.00
+2024-10-01,Marketing,Publicidade e marketing digital,7500.00
+2024-10-01,Utilidades,"Energia, água e telefone",2400.00
+2024-10-01,Manutenção,Manutenção de equipamentos,1900.00
+2024-10-01,Seguros,Seguros diversos,1200.00
+2024-10-01,Outros,Despesas diversas,3600.00
+2024-11-01,Aluguel,Aluguel da loja,8000.00
+2024-11-01,Salários,Salários e encargos,12000.00
+2024-11-01,Matéria-prima,Compra de ouro e pedras preciosas,10000.00
+2024-11-01,Marketing,Publicidade e marketing digital,8000.00
+2024-11-01,Utilidades,"Energia, água e telefone",2500.00
+2024-11-01,Manutenção,Manutenção de equipamentos,2000.00
+2024-11-01,Seguros,Seguros diversos,1200.00
+2024-11-01,Outros,Despesas diversas,3800.00
+2024-12-01,Aluguel,Aluguel da loja,8000.00
+2024-12-01,Salários,Salários e encargos,12000.00
+2024-12-01,Matéria-prima,Compra de ouro e pedras preciosas,10500.00
+2024-12-01,Marketing,Publicidade e marketing digital,8500.00
+2024-12-01,Utilidades,"Energia, água e telefone",2600.00
+2024-12-01,Manutenção,Manutenção de equipamentos,2100.00
+2024-12-01,Seguros,Seguros diversos,1200.00
+2024-12-01,Outros,Despesas diversas,4000.00
