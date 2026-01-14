@@ -1,0 +1,10 @@
+[project]
+name = "grupo6"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "gradio>=6.3.0",
+    "pandas>=2.3.3",
+]
